@@ -1,7 +1,7 @@
 # FGOSummon
 
 FGOSummon is a simple Python application that lets the user summon servants from the Fate/Grand Order mobile game's original roster of characters.
-There are 2 ways to play, gacha summon and true summon.
+There are 2 ways to play, gacha summon and true summon.<br/>
 Gacha summoning uses the following odds:
 - 5 star: 10%
 - 4 star: 15%
